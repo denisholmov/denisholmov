@@ -1,16 +1,16 @@
-### Hi there 👋
+Привет, я Денис!
 
-<!--
-**denisholmov/denisholmov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий frontend разработчик, ютубер. Живу в Уфе.
 
-Here are some ideas to get you started:
+На данный момент я двигаюсь по учебной программе моего ментора и стремлюсь получить первую работу в IT. В блоге делюсь путём развития, ресурсами и рассуждениями, рассказываю о трудностях, с которыми сталкиваюсь.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+На этой странице я буду выкладывать полезную информацию и свои проекты, которые могут вас заинтересовать.
+___
+
+Мой гайд
+
+
+___
+* [YouTube](https://www.youtube.com/channel/UCnOw3CRxk5fXp_u_ki3_ZWA)
+* [VK](https://vk.com/id114719448)
+* [Instagram](https://instagram.com/denis_holmov?igshid=ZDdkNTZiNTM=)
