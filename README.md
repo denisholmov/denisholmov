@@ -7,8 +7,7 @@
 На этой странице я буду выкладывать полезную информацию и свои проекты, которые могут вас заинтересовать.
 ___
 
-Мой гайд
-
+[Гайд!](https://github.com/denisholmov/Guide-For-Frontend.git)
 
 ___
 * [YouTube](https://www.youtube.com/channel/UCnOw3CRxk5fXp_u_ki3_ZWA)
