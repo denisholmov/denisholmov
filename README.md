@@ -1,4 +1,6 @@
-# Макеты
+# Проекты
+
+Здесь хранятся ссылки на небольшие творческие проекты, которые я могу писать в свободное от работы время. Некоторые из них находятся здесь в помощь моей педагогической деятельности а некоторые уже устарели и требуют доработки. Актуальные проекты не храню здесь из-за подписанных NDA. 
 
 ### Одностраничные макеты на html, css
 
@@ -6,3 +8,9 @@
 - [Cyberpunk](https://denisholmov.github.io/landing-cyberpunk/)
 - [Реплики картин от Ink House](https://denisholmov.github.io/ink-house/)
 - [Castaway](https://denisholmov.github.io/castaway/)
+
+### Чистый JS
++ [Одежда](https://denisholmov.github.io/app-t-shirt/) и ссылка на код https://github.com/denisholmov/task_planning.git
+
+### React
++ Проект был сделан до трудоустройства на первое место работы. Требуется его доработка [Планирование задач](https://denisholmov.github.io/task_planning/) ссылка на код: https://github.com/denisholmov/task_planning.git
