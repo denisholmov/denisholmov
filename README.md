@@ -10,7 +10,7 @@
 - [Castaway](https://denisholmov.github.io/castaway/)
 
 ### Чистый JS
-+ [Одежда](https://denisholmov.github.io/app-t-shirt/) и ссылка на код https://github.com/denisholmov/task_planning.git
++ [Одежда](https://denisholmov.github.io/app-t-shirt/) и ссылка на код https://github.com/denisholmov/app-t-shirt.git
 
 ### React
 + Проект был сделан до трудоустройства на первое место работы. Требуется его доработка [Планирование задач](https://denisholmov.github.io/task_planning/) ссылка на код: https://github.com/denisholmov/task_planning.git
