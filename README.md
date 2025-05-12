@@ -5,12 +5,12 @@
 ### Одностраничные макеты на html, css
 
 - [Природные артефакты](https://denisholmov.github.io/natural-collection/)
-- [Cyberpunk](https://denisholmov.github.io/landing-cyberpunk/)
-- [Реплики картин от Ink House](https://denisholmov.github.io/ink-house/)
-- [Castaway](https://denisholmov.github.io/castaway/)
+- [Cyberpunk](https://denisholmov.github.io/landing-cyberpunk/) Сделать адаптив
+- [Реплики картин от Ink House](https://denisholmov.github.io/ink-house/) Сделать адаптив
+- [Castaway](https://denisholmov.github.io/castaway/) Сделать адаптив
 
 ### Чистый JS
 + [Калькулятор](https://denisholmov.github.io/calculator/) и ссылка на код https://github.com/denisholmov/calculator.git
-+ [Светофор](https://denisholmov.github.io/traffic-light/) и ссылка на код https://github.com/denisholmov/traffic-light.git
++ [Светофор](https://denisholmov.github.io/traffic-light/) и ссылка на код https://github.com/denisholmov/traffic-light.git Доделать описание и комменты для студентов в этом проекте
 + [Одежда](https://denisholmov.github.io/app-t-shirt/) и ссылка на код https://github.com/denisholmov/app-t-shirt.git
 
