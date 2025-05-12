@@ -10,5 +10,6 @@
 - [Castaway](https://denisholmov.github.io/castaway/)
 
 ### Чистый JS
++ [Калькулятор](https://denisholmov.github.io/calculator/) и ссылка на код https://github.com/denisholmov/calculator.git
 + [Одежда](https://denisholmov.github.io/app-t-shirt/) и ссылка на код https://github.com/denisholmov/app-t-shirt.git
 
