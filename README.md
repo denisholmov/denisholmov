@@ -9,7 +9,7 @@
 - [Реплики картин от Ink House](https://denisholmov.github.io/ink-house/) Сделать адаптив
 - [Castaway](https://denisholmov.github.io/castaway/) Сделать адаптив
 
-### Учебный проект
+### Проект с настройкой окружения
 [Игры разума](https://github.com/denisholmov/frontend-project-44)
 
 ### Чистый JS
