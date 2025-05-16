@@ -9,6 +9,9 @@
 - [Реплики картин от Ink House](https://denisholmov.github.io/ink-house/) Сделать адаптив
 - [Castaway](https://denisholmov.github.io/castaway/) Сделать адаптив
 
+### Учебный проект
+[Игры разума](https://github.com/denisholmov/frontend-project-44)
+
 ### Чистый JS
 + [Калькулятор](https://denisholmov.github.io/calculator/) и ссылка на код https://github.com/denisholmov/calculator.git
 + [Светофор](https://denisholmov.github.io/traffic-light/) и ссылка на код https://github.com/denisholmov/traffic-light.git Доделать описание и комменты для студентов
