@@ -4,7 +4,7 @@
 
 ### Одностраничные макеты на html, css
 
-- [Природные артефакты](https://denisholmov.github.io/natural-collection/)
+- [Природные артефакты](https://denisholmov.github.io/natural-collection/) Ссылка на код: https://github.com/denisholmov/natural-collection.git
 - [Cyberpunk](https://denisholmov.github.io/landing-cyberpunk/) Сделать адаптив
 - [Реплики картин от Ink House](https://denisholmov.github.io/ink-house/) Сделать адаптив
 - [Castaway](https://denisholmov.github.io/castaway/) Сделать адаптив
