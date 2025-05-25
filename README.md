@@ -15,5 +15,6 @@
 ### Чистый JS
 + [Калькулятор](https://denisholmov.github.io/calculator/) и ссылка на код https://github.com/denisholmov/calculator.git
 + [Светофор](https://denisholmov.github.io/traffic-light/) и ссылка на код https://github.com/denisholmov/traffic-light.git
++ [Простейший конвертер валют](https://denisholmov.github.io/currency-converter/) ссылка на код https://github.com/denisholmov/currency-converter.git
 + [Одежда](https://denisholmov.github.io/app-t-shirt/) и ссылка на код https://github.com/denisholmov/app-t-shirt.git
 
