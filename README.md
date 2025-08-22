@@ -17,3 +17,4 @@
 + [Светофор](https://denisholmov.github.io/traffic-light/) и ссылка на код https://github.com/denisholmov/traffic-light.git
 + [Простейший конвертер валют](https://denisholmov.github.io/currency-converter/) ссылка на код https://github.com/denisholmov/currency-converter.git
 + [Магазин футболок на чистом js](https://denisholmov.github.io/app-t-shirt-js/) ссылка на код https://github.com/denisholmov/app-t-shirt-js.git
++ [Доставка роллов](https://denisholmov.github.io/delivery-of-rolls/) ссылка на код https://github.com/denisholmov/delivery-of-rolls
