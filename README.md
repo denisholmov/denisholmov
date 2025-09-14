@@ -5,7 +5,7 @@
 ### Одностраничные макеты на html, css
 
 - [Природные артефакты](https://denisholmov.github.io/natural-collection/) Ссылка на код: https://github.com/denisholmov/natural-collection.git
-- [Шахматы. Верстка по тестовому заданию](https://denisholmov.github.io/yandex-test/) Ссылка на код: https://github.com/denisholmov/yandex-test
+- [Шахматы. Верстка по тестовому заданию](https://denisholmov.github.io/yandex-test/) Ссылка на код: https://github.com/denisholmov/yandex-test макет: https://clck.ru/3PCYJv
 - [Cyberpunk](https://denisholmov.github.io/landing-cyberpunk/) Сделать адаптив
 - [Реплики картин от Ink House](https://denisholmov.github.io/ink-house/) Сделать адаптив
 - [Castaway](https://denisholmov.github.io/castaway/) Сделать адаптив
