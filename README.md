@@ -7,8 +7,8 @@
 - [Природные артефакты](https://denisholmov.github.io/natural-collection/) Ссылка на код: https://github.com/denisholmov/natural-collection.git
 - [Шахматы. Верстка по тестовому заданию](https://denisholmov.github.io/yandex-test/) Ссылка на код: https://github.com/denisholmov/yandex-test макет: https://clck.ru/3PCYJv
 - [Cyberpunk](https://denisholmov.github.io/landing-cyberpunk/) Ссылка на код: https://github.com/denisholmov/landing-cyberpunk
-- [Реплики картин от Ink House](https://denisholmov.github.io/ink-house/) Сделать адаптив
-- [Castaway](https://denisholmov.github.io/castaway/) Сделано без адаптива. Ссылка на код: https://github.com/denisholmov/ink-house.git
+- [Реплики картин от Ink House](https://denisholmov.github.io/ink-house/) Сделано без адаптива. Ссылка на код: https://github.com/denisholmov/ink-house.git
+- [Castaway](https://denisholmov.github.io/castaway/) Сделано без адаптива
 
 ### Проект с настройкой окружения
 [Игры разума](https://github.com/denisholmov/frontend-project-44)
